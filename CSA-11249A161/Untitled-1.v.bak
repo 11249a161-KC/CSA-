@@ -1,0 +1,7 @@
+module eq1{
+input A,B,C,
+output 
+};
+
+assign F = (A&B)|(~C);
+endmodule

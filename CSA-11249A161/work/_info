@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dX:/CSA-11249A161
+veq1
+Z1 !s110 1770014342
+!i10b 1
+!s100 [2g86J330eKY_ldNhzQW;1
+I29PPBHK6R5A3PHNL41RQS1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1769079114
+8X:/CSA-11249A161/Untitled-1.v
+FX:/CSA-11249A161/Untitled-1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1770014342.000000
+!s107 X:/CSA-11249A161/Untitled-1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/Untitled-1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vnand_gate
+R1
+!i10b 1
+!s100 dCFjOd;<N9P0]o86`G?gH1
+ID]iIk]<Y[emd:jl?Lc5N_2
+R2
+R0
+w1770013641
+8X:/CSA-11249A161/nandgate.v
+FX:/CSA-11249A161/nandgate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 X:/CSA-11249A161/nandgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/nandgate.v|
+!i113 1
+R5
+R6
+vnor_gate
+Z7 !s110 1770014343
+!i10b 1
+!s100 R4A69@^71BLQ7czIXV0^f1
+I2m2D[3BE;c;<APMMBZl=]3
+R2
+R0
+w1770014053
+8X:/CSA-11249A161/norgate.v
+FX:/CSA-11249A161/norgate.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1770014343.000000
+!s107 X:/CSA-11249A161/norgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/norgate.v|
+!i113 1
+R5
+R6
+vnot1
+R1
+!i10b 1
+!s100 kGFKOX3]T3`WoYN38n:nT1
+IaXQM<ZXLDBRA3K1TIkQf[3
+R2
+R0
+w1770013466
+8X:/CSA-11249A161/notgate.v
+FX:/CSA-11249A161/notgate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 X:/CSA-11249A161/notgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/notgate.v|
+!i113 1
+R5
+R6
+vor_gate
+R1
+!i10b 1
+!s100 <2liNLiR_<SfY3lInZh6I1
+In:JiUIHEmQPEjl<><f=<h1
+R2
+R0
+w1770013459
+8X:/CSA-11249A161/orgate.v
+FX:/CSA-11249A161/orgate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 X:/CSA-11249A161/orgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/orgate.v|
+!i113 1
+R5
+R6
+vxor1
+R7
+!i10b 1
+!s100 =KH<lZlFF>lT6AGGGd2z>1
+Io<9HfGneI@a_`=SBhhU7c1
+R2
+R0
+w1770014340
+8X:/CSA-11249A161/xorgate.v
+FX:/CSA-11249A161/xorgate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 X:/CSA-11249A161/xorgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/xorgate.v|
+!i113 1
+R5
+R6
