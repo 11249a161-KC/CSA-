@@ -1,0 +1,7 @@
+module ass5(
+input A, B, C, D,
+output F
+);
+
+assign F = (A & B) | ((~C) & D) | (B ^ C);
+endmodule 

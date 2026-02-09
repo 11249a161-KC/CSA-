@@ -1,0 +1,50 @@
+X:/CSA-11249A161/decoder.v {1 {vlog -work work -stats=none X:/CSA-11249A161/decoder.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module decod1
+
+Top level modules:
+	decod1
+
+} {} {}} X:/CSA-11249A161/ass3.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass3.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ass3
+
+Top level modules:
+	ass3
+
+} {} {}} X:/CSA-11249A161/ass4.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass4.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ass4
+
+Top level modules:
+	ass4
+
+} {} {}} X:/CSA-11249A161/ass1.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass1.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ass1
+
+Top level modules:
+	ass1
+
+} {} {}} X:/CSA-11249A161/ass5.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass5.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ass5
+
+Top level modules:
+	ass5
+
+} {} {}} X:/CSA-11249A161/ass2.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass2.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ass2
+
+Top level modules:
+	ass2
+
+} {} {}} X:/CSA-11249A161/ass6.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass6.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ass6
+
+Top level modules:
+	ass6
+
+} {} {}}

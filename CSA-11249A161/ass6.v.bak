@@ -1,0 +1,6 @@
+module ass6(
+input A, B, C, E, F,
+output Y
+);
+assign F = (A & B) | ((~C) & (~B)) | ((~E) & F);
+endmodule 

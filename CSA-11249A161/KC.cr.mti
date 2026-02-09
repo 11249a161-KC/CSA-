@@ -1,26 +1,4 @@
-X:/CSA-11249A161/nandgate.v {1 {vlog -work work -stats=none X:/CSA-11249A161/nandgate.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module nand_gate
-
-Top level modules:
-	nand_gate
-
-} {} {}} X:/CSA-11249A161/orgate.v {2 {vlog -work work -stats=none X:/CSA-11249A161/orgate.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module or_gate
-** Warning: X:/CSA-11249A161/orgate.v(5): (vlog-2283) Extra semicolon in $unit (global) scope.
-
-Top level modules:
-	or_gate
-
-} {} {}} X:/CSA-11249A161/notgate.v {1 {vlog -work work -stats=none X:/CSA-11249A161/notgate.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module not1
-
-Top level modules:
-	not1
-
-} {} {}} X:/CSA-11249A161/Untitled-1.v {1 {vlog -work work -stats=none X:/CSA-11249A161/Untitled-1.v
+X:/CSA-11249A161/Untitled-1.v {1 {vlog -work work -stats=none X:/CSA-11249A161/Untitled-1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module eq1
 
@@ -33,5 +11,72 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	nor_gate
+
+} {} {}} X:/CSA-11249A161/encoder.v {1 {vlog -work work -stats=none X:/CSA-11249A161/encoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module enc_if_else
+
+Top level modules:
+	enc_if_else
+
+} {} {}} X:/CSA-11249A161/notgate.v {1 {vlog -work work -stats=none X:/CSA-11249A161/notgate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module not1
+
+Top level modules:
+	not1
+
+} {} {}} X:/CSA-11249A161/orgate.v {2 {vlog -work work -stats=none X:/CSA-11249A161/orgate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module or_gate
+** Warning: X:/CSA-11249A161/orgate.v(5): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	or_gate
+
+} {} {}} X:/CSA-11249A161/ass1.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ass1
+
+Top level modules:
+	ass1
+
+} {} {}} X:/CSA-11249A161/ass2.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ass2
+
+Top level modules:
+	ass2
+
+} {} {}} X:/CSA-11249A161/nandgate.v {1 {vlog -work work -stats=none X:/CSA-11249A161/nandgate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nand_gate
+
+Top level modules:
+	nand_gate
+
+} {} {}} X:/CSA-11249A161/xorgate.v {1 {vlog -work work -stats=none X:/CSA-11249A161/xorgate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xor1
+
+Top level modules:
+	xor1
+
+} {} {}} X:/CSA-11249A161/ass3.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ass3
+
+Top level modules:
+	ass3
+
+} {} {}} X:/CSA-11249A161/ass4.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ass4
+
+Top level modules:
+	ass4
+
+} {} {}} X:/CSA-11249A161/ass5.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 
 } {} {}}

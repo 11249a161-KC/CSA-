@@ -8,129 +8,309 @@ z2
 !i10f 100
 cModel Technology
 Z0 dX:/CSA-11249A161
+vass1
+Z1 !s110 1770622031
+!i10b 1
+!s100 2h4ZX1>zOCP01HFJG0PP83
+IOSmbz:XL5ECg;K^CnP^SE2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1770017509
+8X:/CSA-11249A161/ass1.v
+FX:/CSA-11249A161/ass1.v
+L0 1
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1770622031.423000
+!s107 X:/CSA-11249A161/ass1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/ass1.v|
+!i113 1
+Z4 o-work work
+vass2
+R1
+!i10b 1
+!s100 d@knob7mzU]YdKh>?nOlO3
+IKBBYb^YjjVXF[LQcSA:Ye3
+R2
+R0
+w1770017686
+8X:/CSA-11249A161/ass2.v
+FX:/CSA-11249A161/ass2.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622031.798000
+!s107 X:/CSA-11249A161/ass2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/ass2.v|
+!i113 1
+R4
+vass3
+Z5 !s110 1770622032
+!i10b 1
+!s100 ?QS=8YQZ`0?6:3RL3:ZaM2
+I0J4[UUMWG5@PHg0FC4oY?1
+R2
+R0
+w1770619127
+8X:/CSA-11249A161/ass3.v
+FX:/CSA-11249A161/ass3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622031.985000
+!s107 X:/CSA-11249A161/ass3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/ass3.v|
+!i113 1
+R4
+vass4
+R5
+!i10b 1
+!s100 `=I<5boA28LT;DmDmG1Q31
+IOHD]X=O=<H=23e_CgTI5;2
+R2
+R0
+w1770017938
+8X:/CSA-11249A161/ass4.v
+FX:/CSA-11249A161/ass4.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622032.157000
+!s107 X:/CSA-11249A161/ass4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/ass4.v|
+!i113 1
+R4
+vass5
+R1
+!i10b 1
+!s100 ^XXNIg_n]02>nj?YC_7^K2
+Ib17cF?DGXTnP3M14YG2eA0
+R2
+R0
+w1770616276
+8X:/CSA-11249A161/ass5.v
+FX:/CSA-11249A161/ass5.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622031.595000
+!s107 X:/CSA-11249A161/ass5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/ass5.v|
+!i113 1
+R4
+vass6
+R1
+!i10b 1
+!s100 ;Ua`1@>VSn0C4Aklf3nU72
+Io_^V:YRcgMIJNaBd6=Qa`0
+R2
+R0
+w1770616112
+8X:/CSA-11249A161/ass6.v
+FX:/CSA-11249A161/ass6.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622031.251000
+!s107 X:/CSA-11249A161/ass6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/ass6.v|
+!i113 1
+R4
+vdecod1
+R5
+!i10b 1
+!s100 I_en>h0IN^hAg=dl]zhad0
+Idb1YA9E0lB`UgPNHVh_4e0
+R2
+R0
+w1770621820
+Z6 8X:/CSA-11249A161/decoder.v
+Z7 FX:/CSA-11249A161/decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622032.564000
+!s107 X:/CSA-11249A161/decoder.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/decoder.v|
+!i113 1
+R4
+vdecod2
+!s110 1770621770
+!i10b 1
+!s100 d8N[>S8a;CooPbKmziEfV1
+I9MJWIOgbAT7hg<oVkVEk90
+R2
+R0
+w1770621765
+R6
+R7
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770621769.965000
+!s107 X:/CSA-11249A161/decoder.v|
+R8
+!i113 1
+R4
+venc_if_else
+R5
+!i10b 1
+!s100 DoJMNmT0a^k]>fmBZ``XF0
+IN4=eMdBX4hm_i@:NA7j]g0
+R2
+R0
+w1770622029
+8X:/CSA-11249A161/encoder.v
+FX:/CSA-11249A161/encoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1770622032.361000
+!s107 X:/CSA-11249A161/encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/encoder.v|
+!i113 1
+R4
 veq1
-Z1 !s110 1770014342
+Z9 !s110 1770018047
 !i10b 1
 !s100 [2g86J330eKY_ldNhzQW;1
 I29PPBHK6R5A3PHNL41RQS1
-Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z10 VDg1SIo80bB@j0V0VzS_@n1
 R0
 w1769079114
 8X:/CSA-11249A161/Untitled-1.v
 FX:/CSA-11249A161/Untitled-1.v
 L0 1
-Z3 OV;L;10.5b;63
+Z11 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1770014342.000000
+Z12 !s108 1770018047.000000
 !s107 X:/CSA-11249A161/Untitled-1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/Untitled-1.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+R4
+Z13 tCvgOpt 0
 vnand_gate
-R1
+R9
 !i10b 1
 !s100 dCFjOd;<N9P0]o86`G?gH1
 ID]iIk]<Y[emd:jl?Lc5N_2
-R2
+R10
 R0
 w1770013641
 8X:/CSA-11249A161/nandgate.v
 FX:/CSA-11249A161/nandgate.v
 L0 1
-R3
+R11
 r1
 !s85 0
 31
-R4
+R12
 !s107 X:/CSA-11249A161/nandgate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/nandgate.v|
 !i113 1
-R5
-R6
+R4
+R13
 vnor_gate
-Z7 !s110 1770014343
+R9
 !i10b 1
 !s100 R4A69@^71BLQ7czIXV0^f1
 I2m2D[3BE;c;<APMMBZl=]3
-R2
+R10
 R0
 w1770014053
 8X:/CSA-11249A161/norgate.v
 FX:/CSA-11249A161/norgate.v
 L0 1
-R3
+R11
 r1
 !s85 0
 31
-Z8 !s108 1770014343.000000
+R12
 !s107 X:/CSA-11249A161/norgate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/norgate.v|
 !i113 1
-R5
-R6
+R4
+R13
 vnot1
-R1
+Z14 !s110 1770018046
 !i10b 1
 !s100 kGFKOX3]T3`WoYN38n:nT1
 IaXQM<ZXLDBRA3K1TIkQf[3
-R2
+R10
 R0
 w1770013466
 8X:/CSA-11249A161/notgate.v
 FX:/CSA-11249A161/notgate.v
 L0 2
-R3
+R11
 r1
 !s85 0
 31
-R4
+Z15 !s108 1770018046.000000
 !s107 X:/CSA-11249A161/notgate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/notgate.v|
 !i113 1
-R5
-R6
+R4
+R13
 vor_gate
-R1
+R14
 !i10b 1
 !s100 <2liNLiR_<SfY3lInZh6I1
 In:JiUIHEmQPEjl<><f=<h1
-R2
+R10
 R0
 w1770013459
 8X:/CSA-11249A161/orgate.v
 FX:/CSA-11249A161/orgate.v
 L0 1
-R3
+R11
 r1
 !s85 0
 31
-R4
+R15
 !s107 X:/CSA-11249A161/orgate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/orgate.v|
 !i113 1
-R5
-R6
+R4
+R13
 vxor1
-R7
+!s110 1770018048
 !i10b 1
 !s100 =KH<lZlFF>lT6AGGGd2z>1
 Io<9HfGneI@a_`=SBhhU7c1
-R2
+R10
 R0
 w1770014340
 8X:/CSA-11249A161/xorgate.v
 FX:/CSA-11249A161/xorgate.v
 L0 1
-R3
+R11
 r1
 !s85 0
 31
-R8
+!s108 1770018048.000000
 !s107 X:/CSA-11249A161/xorgate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|X:/CSA-11249A161/xorgate.v|
 !i113 1
-R5
-R6
+R4
+R13
