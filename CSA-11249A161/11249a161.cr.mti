@@ -19,6 +19,13 @@ Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 Top level modules:
 	ass4
 
+} {} {}} X:/CSA-11249A161/encoder.v {1 {vlog -work work -stats=none X:/CSA-11249A161/encoder.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module enc_if_else
+
+Top level modules:
+	enc_if_else
+
 } {} {}} X:/CSA-11249A161/ass1.v {1 {vlog -work work -stats=none X:/CSA-11249A161/ass1.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 -- Compiling module ass1
